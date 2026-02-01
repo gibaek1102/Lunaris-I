@@ -1,11 +1,11 @@
-I. Natural Numbers(자연수) 
+#I. Natural Numbers(자연수) 
 N16: Natural numbers between 0 and 2¹⁶-1
 N32: Natural numbers between 0 and 2³²-1
 N64: Natural numbers between 0 and 2⁶⁴-1
 N128: Natural numbers between 0 and 2¹²⁸-1
 N256: Natural numbers between 0 and 2²⁵⁶-1
 N512: Natural numbers between 0 and 2⁵¹²-1
-II. Intergers(정수) 
+#II. Intergers(정수) 
 Z16: Intergers between -2¹⁵ and 2¹⁵-1
 Z32: Intergers between -2³¹ and 2³¹-1
 Z64: Intergers between -2⁶³ and 2⁶³-11
